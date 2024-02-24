@@ -1,0 +1,35 @@
+[
+  {
+    "title": "PYTHON",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "R",
+    "imageSrc": "skills/R.png"
+  },
+  {
+    "title": "R Selenium",
+    "imageSrc": "skills/R-Selenium.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/JavaScript.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/Django.png"
+  }
+ 
+]

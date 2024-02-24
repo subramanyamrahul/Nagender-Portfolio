@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Sentiment Analysis Using R",
+    "imageSrc": "projects/R.png",
+    "description": "With sentiment analysis, we can find out the nature of opinion that is reflected in  websites, social media, this is the process of extracting opinions with different polarities",
+    "skills": ["R Studio", "R Selenium" ],
+    "source": "https://github.com/go-naag/sentiment-analysis-using-R/tree/main"
+  },
+  {
+    "title": "Food Wastage Monitoring System ",
+    "imageSrc": "projects/IOT.png",
+    "description": "The system integrates smart weighing scales, load cells, and IoT display units for real-time food weight monitoring.",
+    "skills": ["IOT", "C Language "],
+    "source": "https://github.com/go-naag/mini-project1"
+  },
+  {
+    "title": "Interview Insights",
+    "imageSrc": "projects/interview.jpg",
+    "description": "Interview Insights  is a Django-based web application designed to facilitate the exchange of firsthand interview experiences among students and job seekers.",
+    "skills": ["HTML", "CSS", "JavaScript","Django"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/go-naag/interview_insight"
+  }
+]
